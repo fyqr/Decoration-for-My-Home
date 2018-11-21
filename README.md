@@ -7,8 +7,8 @@
 1. [primary roomunit](Sketchup Model)用于展示毛坯状态的房屋布局及结构
 2. [rough decorated roomunit](Sketchup Model)为初步装修模型，用于确定初步装修方案
 3. [rough decorated roomunit](Sketchup Model)建模参考
-   1. [家装 (1)](Sketchup Model\Reference Model)
-   2. [家装 (12)](Sketchup Model\Reference Model)
+   1. [家装 (1)](Sketchup Model/Reference Model)
+   2. [家装 (12)](Sketchup Model/Reference Model)
 
 ## sketchup建模学习
 
