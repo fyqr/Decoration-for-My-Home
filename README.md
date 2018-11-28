@@ -2,6 +2,11 @@
 
 为了自家装修所建仓库
 
+## 装修用软件
+
+1. 常规装修 3dsmax VRay PS，一般是3dsmax渲染 PS调图  最后放到VRay中。
+2. 有些家装公司用酷乐家、三维家等（酷乐家更好用一点儿）
+
 ## sketchup模型
 
 1. [primary roomunit](Sketchup Model)用于展示毛坯状态的房屋布局及结构
